@@ -14,10 +14,10 @@ Some other features are as following:
 - Add/Edit Address
 
 
-### Configuring
+## Configuring
 -Included Kotlin support to the app!
 
-## NOTE
+#### NOTE
 - The project requires improvement since it is pending but has the first step of an online e-commerce app adding items to cart!
 
 
