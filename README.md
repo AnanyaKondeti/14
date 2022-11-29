@@ -8,33 +8,13 @@ Some other features are as following:
 - Recyclerview with variable span size to show products.
 - Search Bar and filtering
 - Product detail screen with image carousel and custom Radio Buttons.
-- Add/Edit Product for Sellers
 - See all orders placed.
 - Increase/Decrease quantity of product in cart.
 - Place Order.
-- Modify status of order for Seller.
 - Add/Edit Address
 - Tested using Espresso. Written unit, instrumentation and UI tests.
 
-## Some Screenshots
 
-|             Splash Screen            |             Application Home              |           Product Detail            |
-| :----------------------------------: | :---------------------------------------: | :----------------------------------:|
-| ![](snapshots/shopping-launcher.png) | ![](snapshots/shopping-home-customer.png) | ![](snapshots/shopping-product.png) |
-
-|                 Signup              |                Login              |        OTP Verification         |
-| :---------------------------------: | :-------------------------------: | :------------------------------:|
-| ![](snapshots/shopping-sign-up.png) | ![](snapshots/shopping-login.png) | ![](snapshots/shopping-otp.png) |
-
-|           Shopping Cart          |             Address Selection              |             Payment Method             |               Order Success               |
-| :------------------------------: | :----------------------------------------: | :-------------------------------------:| :---------------------------------------: |
-| ![](snapshots/shopping-cart.png) | ![](snapshots/shopping-select-address.png) | ![](snapshots/shopping-choose-pay.png) | ![](snapshots/shopping-order-success.png) |
-
-|               Add Product               |             All Orders             |                Order Detail              |               Sign Out               |
-| :-------------------------------------: | :--------------------------------: | :---------------------------------------:| :----------------------------------: |
-| ![](snapshots/shopping-add-product.png) | ![](snapshots/shopping-orders.png) | ![](snapshots/shopping-order-detail.png) | ![](snapshots/shopping-sign-out.png) |
-
-## Project Setup
 
 
 
@@ -45,13 +25,13 @@ Some other features are as following:
 
 ## Built With
 - Kotlin
-- Firebase
-- Room
-- Material
-- Glide
+
+## Built in
+-Android Studio with the help of Smart Internz!!!
+
 
 
 
 ---
 
-<p align="center"> Made with <3 : by <a href="https://github.com/i-vishi">Ananya reddy</a></p>
+<p align="center"> Made with <3 : by <a Ananya reddy</a></p>
