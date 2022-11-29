@@ -29,9 +29,4 @@ Some other features are as following:
 ## Built in
 -Android Studio with the help of Smart Internz!!!
 
-
-
-
----
-
-<p align="center"> Made with <3 : by <a Ananya reddy</a></p>
+<p align="center"> Made with <3 : by <a href="https://github.com/AnanyaKondeti">Ananya reddy</a></p>
