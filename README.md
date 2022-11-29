@@ -60,4 +60,4 @@ git clone https://github.com/i-vishi/shopping-android-app.git
 
 ---
 
-<p align="center"> Made with :blue_heart: by <a href="https://github.com/i-vishi">Vishal Gaur</a></p>
+<p align="center"> Made with purple_heart: by <a href="https://github.com/i-vishi">Ananya reddy</a></p>
