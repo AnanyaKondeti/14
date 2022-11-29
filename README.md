@@ -1,5 +1,5 @@
 # ADD TO CART!!
-An e-commerce android application written in Kotlin where users can sell and buy products. 
+An e-commerce android application written in Kotlin where users can buy products. 
 
 
 ## Overview
