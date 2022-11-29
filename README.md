@@ -37,12 +37,7 @@ Some other features are as following:
 
 ## Project Setup
 
-### Clone and install
 
-Clone this repository and import into Android Studio
-```
-git clone https://github.com/i-vishi/shopping-android-app.git
-```
 
 ### Configuration
 - The project requires Firebase. So follow the steps given [here (Add Firebase to Android Project)](https://firebase.google.com/docs/android/setup) to add firebase to your android project.
