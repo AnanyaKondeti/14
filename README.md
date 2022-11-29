@@ -1,4 +1,4 @@
-# Shopping Android App
+# ADD TO CART!!
 An e-commerce android application written in Kotlin where users can sell and buy products. 
 
 
