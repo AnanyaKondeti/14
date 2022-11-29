@@ -12,7 +12,7 @@ Some other features are as following:
 - Increase/Decrease quantity of product in cart.
 - Place Order.
 - Add/Edit Address
-- Tested using Espresso. Written unit, instrumentation and UI tests.
+
 
 ### Configuring
 -Included Kotlin support to the app!
