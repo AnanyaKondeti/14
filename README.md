@@ -55,4 +55,4 @@ Some other features are as following:
 
 ---
 
-<p align="center"> Made with purple_heart: by <a href="https://github.com/i-vishi">Ananya reddy</a></p>
+<p align="center"> Made with <3 : by <a href="https://github.com/i-vishi">Ananya reddy</a></p>
