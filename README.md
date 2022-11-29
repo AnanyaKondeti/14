@@ -14,14 +14,12 @@ Some other features are as following:
 - Add/Edit Address
 - Tested using Espresso. Written unit, instrumentation and UI tests.
 
+### Configuring
+-Included Kotlin support to the app!
 
+## NOTE
+- The project requires improvement since it is pending but has the first step of an online e-commerce app adding items to cart!
 
-
-
-### Configuration
-- The project requires Firebase. So follow the steps given [here (Add Firebase to Android Project)](https://firebase.google.com/docs/android/setup) to add firebase to your android project.
-- Download the firebase config file `google-services.json`
-- Move the config file to module directory `(app)` of the project.
 
 ## Built With
 - Kotlin
